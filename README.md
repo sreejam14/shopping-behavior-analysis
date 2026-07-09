@@ -52,6 +52,3 @@ This project analyzes customer shopping behavior and sales trends using Power BI
 ## Author
 
 **Sreeja Mullasseri**
-
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- GitHub: https://github.com/sreejam14
